@@ -28,6 +28,4 @@
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorH1&layout=compact&theme=radical)
 
-## Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo&theme=radical)](https://github.com/vitorH1/Sistema-Laravel-)
 
