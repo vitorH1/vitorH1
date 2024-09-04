@@ -7,7 +7,7 @@
 
 📌Fascinado por tecnologia desde a infância, quando criei meu primeiro blog para promover o servidor de Habbo Hotel que desenvolvi.
 
-📌Atualmente, tenho bastante gosto na logica de progamaçao e mysql.
+📌Atualmente, tenho bastante apreço na logica de progamaçao e mysql.
 
 ## Tecnologias que já aprendi
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
